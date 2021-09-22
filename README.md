@@ -1,3 +1,8 @@
+# Deezweb preview
+![preview](/preview/preview.gif)
+
+Cette application crée en react utilise l'api de deezer pour récupérer les musiques. L'utilisateur peut rechercher une musique et les mettre en favori pour ensuite les retrouver dans l'onglet favori. Les musique enregistrer en favorie est suavegarder grace au local storage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
